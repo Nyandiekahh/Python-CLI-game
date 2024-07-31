@@ -1,0 +1,4 @@
+1. Press q to quit the game at any point
+2. Add a command for help (Letter)
+3. Separate the game into functions, to different files
+Implement db.json fo track record/ high scores
